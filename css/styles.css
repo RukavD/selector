@@ -1,0 +1,25 @@
+li {
+    color: blue;
+}
+
+#uniq_1 {
+    color: red;
+}
+
+#uniq_2 {
+    color: yellow;
+}
+
+.blue {
+    color: blueviolet;
+}
+
+.class,
+.class2 {
+    color: pink;
+}
+
+.class3> p{
+    color: brown;
+}
+
